@@ -1,2 +1,7 @@
-# SQl-Tableau
+# SQL-Tableau
 Colectetion of projects created using SQL and Tableau
+
+Employees Database https://public.tableau.com/app/profile/margherita.maselli/viz/Task2_17344375748430/Dashboard1#1
+
+![Employees Database](https://github.com/user-attachments/assets/714210ca-d253-4caa-be65-11aa9af6b93c)
+
